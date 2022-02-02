@@ -6,4 +6,16 @@
     <string name="hyperLink"><u>mydukaan.io/mano</u></string>
     <string name="domain">Get your own custom domain</string>
     <string name="todo">TODO</string>
+    <string name="active_orders">Active Orders</string>
+    <string name="view_all">View All</string>
+    <string name="overview">Overview</string>
+    <string name="last_week">Last week</string>
+    <string name="orders">ORDERS</string>
+    <string name="_33">33</string>
+    <string name="total_sales">TOTAL SALES</string>
+    <string name="_2_918">₹2,918</string>
+    <string name="store_views">STORE VIEWS</string>
+    <string name="_301">301</string>
+    <string name="product_views">PRODUCT VIEWS</string>
+    <string name="_19_121">19,121</string>
 </resources>
