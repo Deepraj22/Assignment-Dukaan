@@ -130,11 +130,8 @@
                     android:layout_height="wrap_content"
                     android:background="@drawable/rounded_textview"
                     android:gravity="center"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
-                    android:text=">"
-                    android:textColor="@color/white"
-                    android:textSize="15sp" />
+                    android:drawableRight="@drawable/arrow_right_white"
+                    android:textColor="@color/white"/>
             </LinearLayout>
         </androidx.appcompat.widget.LinearLayoutCompat>
     </RelativeLayout>
@@ -598,26 +595,18 @@
                                     android:gravity="right"
                                     android:orientation="horizontal"
                                     tools:ignore="RtlHardcoded">
-                                    <androidx.cardview.widget.CardView
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="wrap_content"
-                                        android:backgroundTint="@color/light_red"
-                                        app:cardCornerRadius="5dp"
-                                        android:layout_marginTop="20dp">
 
-                                        <TextView
-                                            android:layout_width="wrap_content"
-                                            android:layout_height="wrap_content"
-                                            android:paddingLeft="20dp"
-                                            android:paddingTop="10dp"
-                                            android:paddingRight="20dp"
-                                            android:paddingBottom="10dp"
-                                            android:text="COD"
-                                            android:fontFamily="@font/gg_regular_font"
-                                            android:textColor="@color/red"
-                                            android:textSize="17sp"
-                                            android:textFontWeight="900"/>
-                                    </androidx.cardview.widget.CardView>
+                                    <Button
+                                        android:layout_width="80dp"
+                                        android:layout_height="wrap_content"
+                                        android:backgroundTint="@color/light_orange"
+                                        android:text="COD"
+                                        android:fontFamily="@font/gg_regular_font"
+                                        android:textSize="16sp"
+                                        android:textFontWeight="800"
+                                        android:textColor="@color/red"
+                                        android:layout_marginTop="20sp"/>
+
                                 </LinearLayout>
                             </LinearLayout>
                         </LinearLayout>
@@ -751,7 +740,7 @@
                                                 android:paddingTop="10dp"
                                                 android:paddingRight="20dp"
                                                 android:paddingBottom="10dp"
-                                                android:text="COD"
+                                                android:text="PAID"
                                                 android:fontFamily="@font/gg_regular_font"
                                                 android:textColor="@color/green"
                                                 android:textSize="17sp"
@@ -877,7 +866,7 @@
                                             android:paddingTop="10dp"
                                             android:paddingRight="20dp"
                                             android:paddingBottom="10dp"
-                                            android:text="COD"
+                                            android:text="PAID"
                                             android:fontFamily="@font/gg_regular_font"
                                             android:textColor="@color/green"
                                             android:textSize="17sp"

@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout-v28/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/drawable/rounded_textview.xml" value="0.1845" />
+        <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout-v28/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout-v28/activity_orders.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout/activity_card.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout/activity_orders.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout/overview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dp077/AndroidStudioProjects/Assignment-Dukaan/app/src/main/res/layout/temp.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/DukaanAssignment2/app/src/main/res/drawable/arrow_forward.xml" value="0.1845" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/DukaanAssignment2/app/src/main/res/drawable/card.xml" value="0.1845" />
         <entry key="..\:/Users/dp077/AndroidStudioProjects/DukaanAssignment2/app/src/main/res/drawable/card_border.xml" value="0.1845" />
